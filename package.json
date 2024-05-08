@@ -7,7 +7,11 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["ice cream", "flavors", "API"],
+  "keywords": [
+    "ice cream",
+    "flavors",
+    "API"
+  ],
   "author": "Your Name",
   "license": "ISC",
   "dependencies": {
